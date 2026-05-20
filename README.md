@@ -1,27 +1,46 @@
-# Week 6
+# שבוע 6 — בינה עסקית
 
-Small workspace for **testweek6 / week6**. This repository currently holds placeholder text files; you can replace or extend them as your coursework or project grows.
+מאגר עבודה לקורס **בינה עסקית**, תואר ראשון במנהל עסקים, סמסטר ב', תשפ"ו.
 
-## Contents
+## תיאור
 
-- **`test.txt`** — sample text file  
-- **`Lakgel.txt`** — sample text file
+פרויקט זה משמש כסביבת עבודה לשבוע 6 בקורס. כרגע המאגר מכיל קבצי טקסט לדוגמה; ניתן להרחיב אותו עם קבצי מטלה, ניתוחים, קוד או דוחות לפי דרישות הקורס.
 
-## Getting started
+## מבנה התיקייה
 
-1. Clone the repository (if you have not already):
+```
+week6/
+├── README.md      # מסמך זה
+├── test.txt       # קובץ טקסט לדוגמה
+└── Lakgel.txt     # קובץ טקסט לדוגמה
+```
+
+## התחלה
+
+1. **שכפול המאגר** (אם עדיין לא שוכפל):
 
    ```bash
-   git clone <repository-url>
+   git clone <כתובת-המאגר>
    cd week6
    ```
 
-2. Open the folder in your editor and add your own source files, notes, or assignments as needed.
+2. פתח את התיקייה בעורך הקוד (למשל Cursor או VS Code).
 
-## Requirements
+3. הוסף או עדכן קבצים לפי דרישות המטלה בשבוע 6.
 
-There are no runtime dependencies yet. If you add a language or framework (for example Node, Python, or Java), document install and run steps here.
+## דרישות
 
-## License
+אין כרגע תלויות ריצה (Runtime). אם תוסיף שפת תכנות או כלי ניתוח (למשל Python, R, Power BI, Excel עם VBA), עדכן סעיף זה עם:
 
-Add a license file or note here if this work will be shared publicly.
+- גרסת השפה / הכלי
+- פקודות התקנה
+- פקודות הרצה
+
+## מחבר
+
+**שם:** _[השלם את שמך]_  
+**ת.ז. / מספר סטודנט:** _[השלם]_
+
+## רישיון
+
+לשימוש אקדמי במסגרת הקורס. אם המאגר יפורסם לציבור, הוסף קובץ `LICENSE` מתאים.
